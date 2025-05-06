@@ -2,3 +2,4 @@ fastapi
 uvicorn
 pytest
 apache-airflow
+apache-airflow==2.9.0
